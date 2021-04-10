@@ -1,0 +1,11 @@
+C:\Users\Elgun Hashimli\source\repos\Profile\Profile\bin\Debug\Profile.exe.config
+C:\Users\Elgun Hashimli\source\repos\Profile\Profile\bin\Debug\Profile.exe
+C:\Users\Elgun Hashimli\source\repos\Profile\Profile\bin\Debug\Profile.pdb
+C:\Users\Elgun Hashimli\source\repos\Profile\Profile\obj\Debug\Profile.csprojAssemblyReference.cache
+C:\Users\Elgun Hashimli\source\repos\Profile\Profile\obj\Debug\Profile.Login.resources
+C:\Users\Elgun Hashimli\source\repos\Profile\Profile\obj\Debug\Profile.Properties.Resources.resources
+C:\Users\Elgun Hashimli\source\repos\Profile\Profile\obj\Debug\Profile.csproj.GenerateResource.cache
+C:\Users\Elgun Hashimli\source\repos\Profile\Profile\obj\Debug\Profile.csproj.CoreCompileInputs.cache
+C:\Users\Elgun Hashimli\source\repos\Profile\Profile\obj\Debug\Profile.exe
+C:\Users\Elgun Hashimli\source\repos\Profile\Profile\obj\Debug\Profile.pdb
+C:\Users\Elgun Hashimli\source\repos\Profile\Profile\obj\Debug\Profile.User.resources
